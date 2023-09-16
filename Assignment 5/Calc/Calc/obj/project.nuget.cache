@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "b48yWi87ZuTl0V5okOWNNkW25O6KJ8OCXiaaVF+s0Iq4NJx2nlfsaQGnY8zGzDSZgDM2rpq+8BI2j15Mwz89vA==",
+  "success": true,
+  "projectFilePath": "E:\\cars\\15-9-23\\Phase3Assignment05-master\\Phase3Assignment05-master\\Assignment 5\\Calc\\Calc\\Calc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
